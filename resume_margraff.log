@@ -1,0 +1,92 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.18)  11 JUN 2021 11:57
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**resume_margraff.tex
+(./resume_margraff.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-09-06> (./res.cls
+Document Style `res' <26 Sep 89>.
+Document Class: res 2000/05/19 v1.4b Resume class
+(c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+No auxiliary output files.
+
+\tabular@text=\toks15
+\tabular@head=\toks16
+\tabular@tail=\toks17
+\@ta=\toks18
+\undefined@token=\toks19
+\sectionwidth=\dimen135
+\sectionskip=\skip49
+\resumewidth=\dimen136
+\@columnwidth=\dimen137
+\c@numberofcolumns=\count176
+) (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2020-09-11 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count177
+\l__pdf_internal_box=\box45
+)
+(./resume_margraff.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+\boxrulethickness=\dimen138
+\boxaroundhmargin=\dimen139
+\boxaroundvmargin=\dimen140
+\MACboxA=\box46
+\MACdimenA=\dimen141
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 123.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 123.
+ [1
+
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] ) 
+Here is how much of TeX's memory you used:
+ 470 strings out of 480876
+ 7528 string characters out of 5911487
+ 247531 words of memory out of 5000000
+ 16174 multiletter control sequences out of 15000+600000
+ 536700 words of font info for 34 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 32i,10n,29p,210b,217s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/20
+20/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2020/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2020/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsl10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmti10.pfb>
+Output written on resume_margraff.pdf (1 page, 70154 bytes).
+PDF statistics:
+ 28 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
