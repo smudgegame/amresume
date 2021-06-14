@@ -9,6 +9,7 @@
 \usepackage{tabularx}
 \usepackage{xcolor}
 \usepackage{hyperref}
+\usepackage{multirow}
 \hypersetup{%
   colorlinks=true,
 %  urlbordercolor=1 0 0  %  possible also
@@ -18,7 +19,7 @@
 \setlength{\textheight}{10.2in} % set text height big enough for box
 \setlength\parindent{24pt}
 \topmargin=-0.5in       % to start box .5in from top of page
-\oddsidemargin=-0.5in   % to start box .5in from left of page
+\oddsidemargin=-0.3in   % to start box .5in from left of page
     
 \begin{document}
  
@@ -54,48 +55,74 @@
 }
 %%%%%%%%%%%%%%%%%%%  End of \boxaround macro %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\name{\bf \LARGE AARON T. MARGRAFF\\} 
-\address{\vspace{-0.5cm}\\ \includegraphics[scale=0.35]{qr_code.png}}
-\address{\\\bf Present Address\\702 Cole Drive\\
-         Johnstown, OH 43031\\ (419) 560-5416\\ atmargraff@gmail.com\\AaronMargraff.com}
-         
+\begin{center}\bf \LARGE AARON T. MARGRAFF\,\,\,\,\,\,\,\\\end{center}
+\vspace{-0.25cm}
+        
+\hspace{-1.5cm}\begin{tabular}{lp{0.2\linewidth}cp{0.115\linewidth}r}
+\multirow{7}{*}{\includegraphics[scale=0.35]{qr_code.png}}&&&&\\
+&&\bf \large Passionate&&\large atmargraff@gmail.com\\
+&&&&\href{http://aaronmargraff.com}{\large AaronMargraff.com}\\
+&&\bf \large Patient&&\large  \href{https://linkedin.com/in/aaronmargraff}{linkedin.com/in/AaronMargraff}\\
+&&&&\\
+&&\bf \large Dedicated&&\\
+&&&&\\
+\end{tabular}
 
 \begin{resume}
-
+\large
 \vspace{-3.5cm}
-\begin{center}\hspace{-3cm}\bf \large Passionate\\ \hspace{-3cm}Dedicated\\\hspace{-3cm}Patient\end{center}
-\vspace{1cm}
+\begin{center}\hspace{-3cm}\\ \vspace{0.25cm} \hspace{-3cm} \vspace{0.25cm}\\\hspace{-3cm}\end{center}
+\vspace{0.5cm}
 
 \section{\sl  \bf Objective}  % with postscript font \sl produces bold italic
 %                           with default font (CM) \sl produces slanted type
-A  position  in the field of Software Devlopment to develop and maintain applications working with a team. 
+Contribute to an agile software team by building and maintaining applications.
  
 \section{\sl  \bf Education}
-\indent $\bullet$ Youngstown State University- BS in Education \emph{Summa Cum Laude} 3.86 with honors, full merit scholarship \\
-\indent $\bullet$ Ohio State University- MS in Mathematics 3.79, Graduate Teaching Assistant
+\begin{tabular}{p{0\linewidth}p{\linewidth}}
+$\bullet$&Youngstown State University\\
+&-\,\,BS in Education specialization in Mathematics\\
+&-\,\,\emph{Summa Cum Laude} 3.86 with honors\\
+&-\,\,Full Merit Scholarship\\
+$\bullet$&Ohio State University\\
+&-\,\,Masters of Science in Mathematics 3.79\\
+&-\,\,Graduate Teaching Assistant
+\end{tabular}
  
 \section{\sl \bf Related Experience}
-\hspace{-0.18cm}\begin{tabular}{p{0\linewidth}p{\linewidth}}
-$\bullet$ & \href{https://github.com/smudgegame/Baby-Sitter-Kata}{Baby Sitter Kata} and \href{https://github.com/smudgegame/Better-Vending-Machine}{Vending Machine Kata} in Java with a focus on using TDD and GitHub. \\
+
+All \color{magenta}magenta \color{black}  colored text are links to related GitHub repos 
+
+\begin{tabular}{p{0\linewidth}p{\linewidth}}
+$\bullet$ &  Katas in Java with a focus on using TDD, Git, and GitHub \\
+&-\,\,\href{https://github.com/smudgegame/Baby-Sitter-Kata}{Baby Sitter Kata}\\
+&-\,\,\href{https://github.com/smudgegame/Better-Vending-Machine}{Vending Machine Kata}\\
 &\\
 $\bullet$ & Audit of Harvard's CS50 Intro to CS-  Using C and Python, Data Structures, Algorithms\\
 &\\
 $\bullet$ & Developed a \href{https://github.com/smudgegame/petstore}{petstore application} using Spring Boot, Java, and Kotlin. The app connects to a docker container using postgresSQL that creates person and pet tables. Used the fundamentals of SQL and object-relational mapping. \\
 &\\
-$\bullet$ & Created a \href{aaronmargraff.com}{personal website} using an angular framework. Purchased a web domain and created an S3bucket on AWS. Used GitHub actions for CI/CD to quickly deploy most recent edits on website.\\
+$\bullet$ & Built and deployed a \href{https://github.com/smudgegame/amwebsite}{personal website} using Angular 11 and devops practices. \\
 &\\
-\indent $\bullet$ & This \href{https://github.com/smudgegame/amresume}{Resum\'e} written in \LaTeX \, mathematical typsetter using a resum\'e class. 
+$\bullet$ & This \href{https://github.com/smudgegame/amresume}{Resum\'e} written in \LaTeX \, mathematical typesetter using a resum\'e class. 
 \end{tabular}
 
 
+
+
 \section{\sl \bf Professional Work Experience}
-\indent $\bullet$ High School Math Teacher- Northfork Local Schools, Ohio 2020-2021\\
-\indent $\bullet$ High School Math Teacher- Fairfax County Public Schools, Virgina 2014-2020\\
-\indent $\bullet$ Graduate Teaching Assistant- Ohio State University, 2012-2014
+\begin{tabular}{p{0\linewidth}p{\linewidth}}
+$\bullet$ &High School Math Teacher-\,\,Northfork Local Schools, Ohio 2020-2021\\
+$\bullet$&High School Math Teacher-\,\,Fairfax County Public Schools, Virgina 2014-2020\\
+$\bullet$&Graduate Teaching Assistant-\,\,Ohio State University, 2012-2014\\
+\end{tabular}
 
 \section{\sl  \bf Honors and Distinctions}
-\indent $\bullet$ 2017 Chantilly High School Outstanding New Teacher\\
-\indent $\bullet$ 2014 OSU Phil Huneke Excellence in Teaching Award-  given to one Graduate Assistant each year
+\begin{tabular}{p{0\linewidth}p{\linewidth}}
+$\bullet$&2017 Chantilly High School- Outstanding New Teacher\\
+$\bullet$&2014 Ohio State University- Phil Huneke Excellence in Teaching Award-  given to one Graduate Assistant each year\\
+\end{tabular}
+
 
 
 \end{resume}

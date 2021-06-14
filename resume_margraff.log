@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.18)  13 JUN 2021 00:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.18)  14 JUN 2021 09:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -222,43 +222,50 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 16.
+(c:/texlive/2020/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip53
+\multirow@cntb=\count188
+\multirow@dima=\skip54
+\bigstrutjot=\dimen151
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 17.
 
 (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2020-09-11 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count188
+\l__kernel_color_stack_int=\count189
 \l__pdf_internal_box=\box47
 )
 (./resume_margraff.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 
 (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count189
-\scratchdimen=\dimen151
+\scratchcounter=\count190
+\scratchdimen=\dimen152
 \scratchbox=\box48
-\nofMPsegments=\count190
-\nofMParguments=\count191
+\nofMPsegments=\count191
+\nofMParguments=\count192
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count192
-\MPscratchDim=\dimen152
-\MPnumerator=\count193
-\makeMPintoPDFobject=\count194
+\MPscratchCnt=\count193
+\MPscratchDim=\dimen153
+\MPnumerator=\count194
+\makeMPintoPDFobject=\count195
 \everyMPtoPDFconversion=\toks24
 ) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -270,7 +277,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box49
-Package hyperref Info: Link coloring ON on input line 23.
+Package hyperref Info: Link coloring ON on input line 24.
 
 (c:/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -281,77 +288,121 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (c:/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count195
+\c@section@level=\count196
 )
-LaTeX Info: Redefining \ref on input line 23.
-LaTeX Info: Redefining \pageref on input line 23.
-LaTeX Info: Redefining \nameref on input line 23.
-\boxrulethickness=\dimen153
-\boxaroundhmargin=\dimen154
-\boxaroundvmargin=\dimen155
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
+LaTeX Info: Redefining \nameref on input line 24.
+\boxrulethickness=\dimen154
+\boxaroundhmargin=\dimen155
+\boxaroundvmargin=\dimen156
 \MACboxA=\box50
-\MACdimenA=\dimen156
+\MACdimenA=\dimen157
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 63.
+(Font)              <7> on input line 61.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 63.
+(Font)              <5> on input line 61.
 <qr_code.png, id=4, 301.125pt x 301.125pt>
 File: qr_code.png Graphic file (type png)
 <use qr_code.png>
-Package pdftex.def Info: qr_code.png  used on input line 63.
+Package pdftex.def Info: qr_code.png  used on input line 62.
 (pdftex.def)             Requested size: 105.39532pt x 105.39532pt.
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 79--79
-[]|$\OMS/cmsy/m/n/10 ^^O$| 
+Overfull \vbox (24.99536pt too high) detected at line 62
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 82.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 82.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 82.
+
+Overfull \hbox (6.00002pt too wide) in paragraph at lines 83--83
+[]|$\OMS/cmsy/m/n/12 ^^O$| 
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 81--81
-[]|$\OMS/cmsy/m/n/10 ^^O$| 
+Overfull \hbox (6.00002pt too wide) in paragraph at lines 87--87
+[]|$\OMS/cmsy/m/n/12 ^^O$| 
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 83--83
-[]|$\OMS/cmsy/m/n/10 ^^O$| 
+Overfull \hbox (6.00002pt too wide) in paragraph at lines 97--97
+[]|$\OMS/cmsy/m/n/12 ^^O$| 
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 85--85
-[]|$\OMS/cmsy/m/n/10 ^^O$| 
+Overfull \hbox (6.00002pt too wide) in paragraph at lines 101--101
+[]|$\OMS/cmsy/m/n/12 ^^O$| 
  []
 
 
-Overfull \hbox (5.00002pt too wide) in paragraph at lines 87--87
-[]|$\OMS/cmsy/m/n/10 ^^O$| 
+Overfull \hbox (6.00002pt too wide) in paragraph at lines 103--103
+[]|$\OMS/cmsy/m/n/12 ^^O$| 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 104.
+
+Overfull \hbox (6.00002pt too wide) in paragraph at lines 105--105
+[]|$\OMS/cmsy/m/n/12 ^^O$| 
+ []
+
+
+Overfull \hbox (6.00002pt too wide) in paragraph at lines 107--107
+[]|$\OMS/cmsy/m/n/12 ^^O$| 
+ []
+
+
+Overfull \hbox (6.00002pt too wide) in paragraph at lines 115--115
+[]|$\OMS/cmsy/m/n/12 ^^O$| 
+ []
+
+
+Overfull \hbox (6.00002pt too wide) in paragraph at lines 116--116
+[]|$\OMS/cmsy/m/n/12 ^^O$| 
+ []
+
+
+Overfull \hbox (6.00002pt too wide) in paragraph at lines 117--117
+[]|$\OMS/cmsy/m/n/12 ^^O$| 
+ []
+
+
+Overfull \hbox (6.00002pt too wide) in paragraph at lines 122--122
+[]|$\OMS/cmsy/m/n/12 ^^O$| 
+ []
+
+
+Overfull \hbox (6.00002pt too wide) in paragraph at lines 123--123
+[]|$\OMS/cmsy/m/n/12 ^^O$| 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
 [1
 
 {c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./qr_code.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 104.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 104.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 104.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 104.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 131.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 131.
  ) 
 Here is how much of TeX's memory you used:
- 5796 strings out of 480876
- 87070 string characters out of 5911487
- 361000 words of memory out of 5000000
- 21349 multiletter control sequences out of 15000+600000
- 537007 words of font info for 35 fonts, out of 8000000 for 9000
+ 5869 strings out of 480876
+ 88086 string characters out of 5911487
+ 366723 words of memory out of 5000000
+ 21411 multiletter control sequences out of 15000+600000
+ 539445 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,12n,37p,325b,310s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
-live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2020
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2020/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmti10.pfb>
-Output written on resume_margraff.pdf (1 page, 79591 bytes).
+ 43i,13n,37p,325b,310s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/tex
+live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2020/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmti12.pfb>
+Output written on resume_margraff.pdf (1 page, 63573 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 43 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
